@@ -1,11 +1,11 @@
 import { Routes, Route } from "react-router-dom";
 
-import Home from "../pages/Home";
-import Destinations from "../pages/Destinations";
-import DestinationDetails from "../pages/DestinationDetails";
-import AddDestination from "../pages/AddDestination";
-import EditDestination from "../pages/EditDestination";
-import Register from "../pages/Register";
+import Home from "../Pages/Home";
+import Destinations from "../Pages/Destinations";
+import DestinationDetails from "../Pages/DestinationDetails";
+import AddDestination from "../Pages/AddDestination";
+import EditDestination from "../Pages/EditDestination";
+import Register from "../Pages/Register";
 import Login from "../Pages/Login";
 import Logout from "../Pages/Logout";
 import Favorites from "../Pages/Favorites";
