@@ -1,0 +1,214 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "roxy",
+      "email": "roxy@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "name": "Zedek",
+      "email": "melchi@gmail.com",
+      "password": "zedek@123",
+      "id": "tfBkz0yB-Dw"
+    },
+    {
+      "name": "Roxy",
+      "email": "usurumarthiroxy123@gmail.com",
+      "password": "Roxy@123",
+      "id": "WPU7wKsrZmM"
+    },
+    {
+      "name": "Roxy",
+      "email": "usurumarthiroxy123@gmail.com",
+      "password": "Roxy@123",
+      "id": "cAmSCbICMxk"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Goa",
+      "country": "India",
+      "category": "Beach",
+      "budget": "Medium",
+      "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+      "description": "Goa is famous for its beaches, nightlife, and Portuguese architecture.",
+      "bestTimeToVisit": "November to February",
+      "duration": "3-5 Days",
+      "rating": 4.7,
+      "price": 15000,
+      "language": "Konkani",
+      "currency": "INR",
+      "famousFor": "Beaches and Water Sports",
+      "weather": "24°C - 32°C",
+      "attractions": [
+        "Baga Beach",
+        "Calangute Beach",
+        "Dudhsagar Falls",
+        "Fort Aguada"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Manali",
+      "country": "India",
+      "category": "Hill Station",
+      "budget": "Low",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "description": "Manali is a beautiful hill station surrounded by snow-capped mountains.",
+      "bestTimeToVisit": "October to June",
+      "duration": "4-6 Days",
+      "rating": 4.8,
+      "price": 12000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Adventure Sports",
+      "weather": "-2°C to 20°C",
+      "attractions": [
+        "Solang Valley",
+        "Rohtang Pass",
+        "Hadimba Temple",
+        "Mall Road"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Hyderabad ",
+      "country": "India",
+      "category": "City",
+      "image": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?w=800",
+      "description": "Hyderabad is the capital and largest city of Telangana.",
+      "bestTimeToVisit": "October to February",
+      "duration": "2-4 Days",
+      "rating": 4.6,
+      "price": 10000,
+      "language": "Telugu",
+      "currency": "INR",
+      "famousFor": "Charminar, Hyderabadi Biryani, IT Hub",
+      "weather": "15°C to 35°C",
+      "attractions": [
+        "Charminar",
+        "Golconda Fort",
+        "Hussain Sagar Lake",
+        "Ramoji Film City"
+      ]
+    },
+    {
+      "id": "7PMujW4wcp4",
+      "name": "Kerala",
+      "country": "India",
+      "category": "Adventure",
+      "image": "https://storage.googleapis.com/stateless-www-justwravel-com/2024/11/b062cce8-top-10-1024x576.jpg",
+      "description": "Kerala, famously known as 'God's Own Country', is a vibrant state on India's southwestern Malabar Coast. It is known for its serene backwaters, palm-fringed beaches, lush tea plantations, and rich Ayurvedic traditions. Kerala also stands out for its high literacy rate and strong cultural heritage.",
+      "bestTimeToVisit": "September to March",
+      "duration": "5-7 Days",
+      "rating": 4.7,
+      "price": 15000,
+      "language": "Malayalam",
+      "currency": "INR",
+      "famousFor": "Backwaters, Houseboats, Ayurveda, Tea Gardens, Beaches",
+      "weather": "20°C to 35°C",
+      "attractions": [
+        "Alleppey Backwaters",
+        "Munnar Tea Gardens",
+        "Wayanad Hills",
+        "Kovalam Beach",
+        "Thekkady Wildlife Sanctuary"
+      ]
+    },
+    {
+      "id": "3Ub1ikJWjNU",
+      "name": "Taj Mahal",
+      "country": "India",
+      "category": "Monument",
+      "image": "https://lh3.googleusercontent.com/gpms-cs-s/ABJJf51uOCgZ3f7tkyXZJKybbz6O4f0YybqADOsQ7UpVNSKKubTVt5Qqk6z-TeUY4lyBHB_JhdlZl4rSncsXrhz6eW4kcVialTTPCkR-eDkwZWbL0ephzD3YItpeD4zovsV1jK50NWY=s1360-w1360-h1020-rw",
+      "description": "The Taj Mahal is an ivory-white marble mausoleum located on the south bank of the Yamuna River in Agra, India. It was commissioned in 1632 by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is a UNESCO World Heritage Site and one of the Seven Wonders of the World.",
+      "bestTimeToVisit": "October to March",
+      "duration": "1-2 Days",
+      "rating": 4.9,
+      "price": 5000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "White Marble Architecture, Mughal History, Seven Wonders of the World",
+      "weather": "10°C to 35°C",
+      "attractions": [
+        "Main Mausoleum",
+        "Mehtab Bagh",
+        "Agra Fort",
+        "Yamuna River View",
+        "Marble Calligraphy"
+      ]
+    },
+    {
+      "id": "rneXfFcoKa4",
+      "name": "Amber Palace",
+      "country": "India",
+      "category": "Monument",
+      "image": "https://lh3.googleusercontent.com/gpms-cs-s/ABJJf50l2fV4VSjLOPDm1dCQr-REKpp9jVRKk0N-sgihmitMmh6988udP9GtBJzZUYJ0ZuwInKZi1sjc5KDPFfCpbONEjCOL57Sx8Sr8KPJK2PSAGh_ufkSm8vPxjsyQg7Sl_XbyFhmpiA=s1360-w1360-h1020-rw",
+      "description": "Amber Palace (Amer Fort) is a UNESCO World Heritage Site located in Amer, Rajasthan, near Jaipur. Built in 1592 by Raja Man Singh I, it showcases a beautiful blend of Rajput and Mughal architecture, intricate mirror work, and stunning views of Maota Lake.",
+      "bestTimeToVisit": "October to March",
+      "duration": "1 Day",
+      "rating": 4.7,
+      "price": 3000,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Rajput Architecture, Mirror Work, Fort Views",
+      "weather": "10°C to 35°C",
+      "attractions": [
+        "Sheesh Mahal",
+        "Ganesh Pol",
+        "Diwan-e-Aam",
+        "Maota Lake View",
+        "Courtyards & Gates"
+      ]
+    },
+    {
+      "id": "Pxjkjgm3Jq0",
+      "name": "Golden Temple",
+      "country": "India",
+      "category": "Religious Site",
+      "image": "https://www.anubhavvacations.in/blog/wp-content/uploads/2024/12/famous-tourist-places-in-india.webp",
+      "description": "The Golden Temple (Sri Harmandir Sahib) in Amritsar, Punjab, is the holiest shrine in Sikhism. Built in 1577, it represents equality and spiritual peace. It is world-famous for its gold-covered structure and the largest free community kitchen (Langar) in the world.",
+      "bestTimeToVisit": "October to March",
+      "duration": "1-2 Days",
+      "rating": 4.9,
+      "price": 2000,
+      "language": "Punjabi",
+      "currency": "INR",
+      "famousFor": "Gold Architecture, Langar, Sikh Heritage",
+      "weather": "5°C to 40°C",
+      "attractions": [
+        "Golden Structure",
+        "Amrit Sarovar",
+        "Langar Hall",
+        "Akal Takht",
+        "Night Lighting View"
+      ]
+    },
+    {
+      "id": "4skj2yjhtAA",
+      "name": "Lotus Temple",
+      "country": "India",
+      "category": "Religious Site",
+      "image": "https://www.thomascook.in/blog//wp-content/uploads/2018/04/placestovisitinindiablog.jpg",
+      "description": "The Lotus Temple in New Delhi is a Bahá'í House of Worship known for its flower-like architecture with 27 marble petals. It symbolizes peace, unity, and equality, and welcomes people of all religions for meditation and prayer.",
+      "bestTimeToVisit": "October to March",
+      "duration": "1 Day",
+      "rating": 4.6,
+      "price": 1500,
+      "language": "Hindi",
+      "currency": "INR",
+      "famousFor": "Lotus Architecture, Peace, Meditation Center",
+      "weather": "10°C to 40°C",
+      "attractions": [
+        "Main Prayer Hall",
+        "Gardens",
+        "Reflection Pools",
+        "Architectural Structure",
+        "Peace Environment"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
